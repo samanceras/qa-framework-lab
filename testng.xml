@@ -2,7 +2,7 @@
 <suite name="QA Framework Suite">
     <test name="Smoke Tests">
         <classes>
-            <class name="com.framework.lab.GoogleSearchTest"/>
+            <class name="com.framework.lab.tests.LoginTest"/>
         </classes>
     </test>
 </suite>
